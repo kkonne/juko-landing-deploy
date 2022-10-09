@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7e5471287fd93be9881ca413177b4210.js"
+  "precache-manifest.17ba1024f3d211822678ad121d8c5064.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "juko"});
